@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="weltex">Welcome to ALC 4.0</string>
+    <string name="abt">ABOUT ALC</string>
+    <string name="pro">MY PROFILE</string>
+    <string name="name">Ahmed Vandy</string>
+    <string name="sie">Sierra Leone</string>
+    <string name="slackname">ahmedvandy</string>
+    <string name="tra">Track</string>
+    <string name="cou">Country:</string>
+
+</resources>
